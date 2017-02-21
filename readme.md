@@ -2,7 +2,7 @@
 
 ## About
 
-ReFlux is an open source forum application released under the GNU General Public Licence. It is free to download and use and will remain so. ReFlux was conceived and designed to be fast and light with less of the "not so essential" features that some of the other forums have whilst not sacrificing essential functionality or usability.
+ReFlux is an open source forum application released under the GNU General Public Licence. It is free to download and use and will remain so. ReFlux is based on FluxBB v1.5.10 which was conceived and designed to be fast and light with less of the "not so essential" features that some of the other forums have whilst not sacrificing essential functionality or usability.
 
 ## Requirements
 
