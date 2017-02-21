@@ -28,7 +28,7 @@ if ($action == 'check_upgrade')
 	if (!ini_get('allow_url_fopen'))
 		message($lang_admin_index['fopen disabled message']);
 
-	$latest_version = trim(@file_get_contents('http://re-flux.com/version/latest_version'));
+	$latest_version = trim(@file_get_contents('http://re-flux.com/latest_version'));
 	if (empty($latest_version))
 		message($lang_admin_index['Upgrade check failed message']);
 
