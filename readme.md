@@ -13,7 +13,7 @@ ReFlux is an open source forum application released under the GNU General Public
 ## Recommendations
 
 * Make use of a PHP accelerator such as APC or XCache
-* Make sure PHP has the zlib module installed to allow FluxBB to gzip output
+* Make sure PHP has the zlib module installed to allow ReFlux to gzip output
 
 ## Links
 
