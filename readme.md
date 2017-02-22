@@ -49,4 +49,4 @@ Installation is vry simple.....
 
 ## ReCaptcha
 To help combat spam and bots we have included the FluxBB ReCaptcha plugin with the installation. This simple plugin adds ReCaptcha to the registration page of your forum. To configure you will be required to register at https://www.google.com/recaptcha.
-Once registered go to your forum admin page and click on ReCaptcha in the Plugins menu on the left. Enter your Site Key and Secret Key and click save.
+Once registered go to your forum admin page and click on ReCaptcha in the Plugins menu on the left. Enter your Site Key and Secret Key and click save. ReCaptcha will now appear at the bottom of the page when users try to register.
